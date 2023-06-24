@@ -1,0 +1,38 @@
+
+  h1 {
+    border: 2px solid ;
+    border-radius: 10px;
+    border-width: 1px;
+    outline-style: solid;
+    outline-color: rgba(82, 62, 255, 0.781);
+    font-family: "Helvetica";
+    display:inline;
+    color: rgb(0, 0, 0);
+    padding:5px;
+  
+  }
+
+ p{
+    margin: 5;
+    text-shadow: 2px 2px 5px rgba(31, 53, 255, 0.418);
+  }
+
+
+  a {
+    margin:5;
+    color:rgb(0, 0, 0);
+    border: 2px solid ;
+    border-radius: 15px;
+    border-width: 1px;
+    outline-style: solid;
+    outline-color: rgba(82, 62, 255, 0.781);
+    padding:5px;
+    margin-right: 5px;
+  }
+
+  img{
+    float: right;
+    float: top;
+    margin-right: 300px;
+    margin-top:20px;
+  }
