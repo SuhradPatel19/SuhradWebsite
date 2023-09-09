@@ -27,6 +27,20 @@
     outline-color: rgba(82, 62, 255, 0.781);
     padding:10px;
     margin-right: 5px;
+    background-color: aliceblue;
+  }
+
+  button{
+    margin:5;
+    color:rgb(0, 0, 0);
+    border-radius: 2px;
+    border-width: 1px;
+    outline-style: solid;
+    outline-color: rgba(82, 62, 255, 0.781);
+    padding:10px;
+    margin-right: 5px;
+    margin-top:30px;
+
   }
 
   /* img{
