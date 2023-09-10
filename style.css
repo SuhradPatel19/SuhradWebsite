@@ -8,18 +8,18 @@
     font-family: "Helvetica";
     display:inline;
     color: rgb(0, 0, 0);
+    background-color: aliceblue;
     padding:5px;
   
   }
 
  p{
     margin: 5;
-    text-shadow: 2px 2px 5px rgba(31, 53, 255, 0.418);
+    color: white;
   }
 
 
   a {
-    margin:5;
     color:rgb(0, 0, 0);
     border-radius: 2px;
     border-width: 1px;
@@ -28,6 +28,7 @@
     padding:10px;
     margin-right: 5px;
     background-color: aliceblue;
+    margin-left: 230px;
   }
 
   button{
@@ -41,6 +42,19 @@
     margin-right: 5px;
     margin-top:30px;
 
+  }
+
+  .spacer {
+    aspect-ratio: 960/540;
+    width: 100%;
+
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .layer1{
+    background-image: url("./layered-waves-haikei.svg")
   }
 
   /* img{
